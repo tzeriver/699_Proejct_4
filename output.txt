@@ -1,0 +1,5856 @@
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.39 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  837.3384 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.459 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  976.3617 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.498 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  1085.596 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.536 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  1171.363 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.565 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  900.8002 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.618 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1026.1 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.661 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1124.524 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.688 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1201.637 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.677 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  956.7693 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.72 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  1070.38 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.753 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  1159.297 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.787 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  1229.187 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.225 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  822.6658 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.246 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  955.2205 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.274 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  1057.671 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.291 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  1137.075 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.293 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  883.1549 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.331 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1001.653 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.355 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1093.352 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.37 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1164.272 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.374 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  935.437 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.411 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  1042.344 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.448 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  1124.913 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.463 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  1188.911 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.734 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  826.535 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.805 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  960.5547 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.83 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  1064.603 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.862 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  1145.231 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.877 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  888.0599 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.914 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1008.542 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.926 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1102.041 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.934 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1174.647 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.946 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  941.086 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.964 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  1049.783 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.974 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  1134.11 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.978 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  1199.514 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.309 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  809.1341 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.345 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  935.999 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.396 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  1032.877 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.415 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  1106.764 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.419 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  866.8611 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.471 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  980.0617 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.537 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1066.401 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.552 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1132.339 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.531 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  916.0562 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.572 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  1017.566 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.627 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  1095.092 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.654 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  1154.379 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.519 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  837.221 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.585 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  976.0522 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.641 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1085.261 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.669 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1170.82 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.673 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  901.3546 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.745 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  1026.96 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.772 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  1125.316 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.814 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  1202.577 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.796 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  957.3533 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.842 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  1070.971 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.866 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  1160.146 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.886 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  1230.117 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.297 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  822.868 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.315 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  955.0641 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.344 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1057.234 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.361 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1136.304 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.389 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  883.7544 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.425 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  1002.558 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.449 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  1094.407 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.469 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  1165.579 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.46 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  935.6959 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.498 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  1042.759 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.539 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  1125.595 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.574 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  1189.814 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.85 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  826.7241 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.898 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  960.9169 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.918 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1065.085 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.933 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1145.954 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.949 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  888.3083 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.964 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  1008.836 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.978 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  1102.335 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.984 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  1174.859 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.983 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  941.1725 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.991 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  1049.893 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.997 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  1134.208 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.998 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  1199.546 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.397 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  809.1606 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.45 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  935.9827 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.505 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1032.762 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.547 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1106.64 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.529 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  867.0786 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.605 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  980.3526 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.663 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  1066.82 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.687 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  1132.945 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.666 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  916.126 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.718 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  1017.789 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.764 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  1095.442 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.794 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  1154.751 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.39 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  837.3384 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.459 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  976.3617 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.498 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  1085.596 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.536 
+Mean total sample size =  162.262 
+Mean follow_up time per subject=  1171.363 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.565 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  900.8002 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.618 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1026.1 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.661 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1124.524 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.688 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1201.637 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.677 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  956.7693 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.72 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  1070.38 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.753 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  1159.297 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  3 
+power =  0.787 
+Mean total sample size =  270.299 
+Mean follow_up time per subject=  1229.187 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.225 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  822.6658 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.246 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  955.2205 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.274 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  1057.671 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.291 
+Mean total sample size =  162.018 
+Mean follow_up time per subject=  1137.075 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.293 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  883.1549 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.331 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1001.653 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.355 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1093.352 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.37 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1164.272 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.374 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  935.437 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.411 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  1042.344 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.448 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  1124.913 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  3 
+power =  0.463 
+Mean total sample size =  269.815 
+Mean follow_up time per subject=  1188.911 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.734 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  826.535 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.805 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  960.5547 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.83 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  1064.603 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.862 
+Mean total sample size =  648.561 
+Mean follow_up time per subject=  1145.231 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.877 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  888.0599 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.914 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1008.542 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.926 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1102.041 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.934 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1174.647 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.946 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  941.086 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.964 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  1049.783 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.974 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  1134.11 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  3 
+power =  0.978 
+Mean total sample size =  1080.642 
+Mean follow_up time per subject=  1199.514 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.309 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  809.1341 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.345 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  935.999 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.396 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  1032.877 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.415 
+Mean total sample size =  647.767 
+Mean follow_up time per subject=  1106.764 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.419 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  866.8611 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.471 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  980.0617 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.537 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1066.401 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.552 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1132.339 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.531 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  916.0562 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.572 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  1017.566 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.627 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  1095.092 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  3 
+power =  0.654 
+Mean total sample size =  1078.662 
+Mean follow_up time per subject=  1154.379 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.519 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  837.221 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.585 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  976.0522 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.641 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1085.261 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.669 
+Mean total sample size =  216.56 
+Mean follow_up time per subject=  1170.82 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.673 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  901.3546 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.745 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  1026.96 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.772 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  1125.316 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.814 
+Mean total sample size =  288.53 
+Mean follow_up time per subject=  1202.577 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.796 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  957.3533 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.842 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  1070.971 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.866 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  1160.146 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  best 
+positive_only =  TRUE 
+countries =  4 
+power =  0.886 
+Mean total sample size =  360.406 
+Mean follow_up time per subject=  1230.117 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.297 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  822.868 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.315 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  955.0641 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.344 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1057.234 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.361 
+Mean total sample size =  216.152 
+Mean follow_up time per subject=  1136.304 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.389 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  883.7544 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.425 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  1002.558 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.449 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  1094.407 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.469 
+Mean total sample size =  287.953 
+Mean follow_up time per subject=  1165.579 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.46 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  935.6959 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.498 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  1042.759 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.539 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  1125.595 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  unif 
+positive_only =  TRUE 
+countries =  4 
+power =  0.574 
+Mean total sample size =  359.915 
+Mean follow_up time per subject=  1189.814 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.85 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  826.7241 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.898 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  960.9169 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.918 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1065.085 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.933 
+Mean total sample size =  865.106 
+Mean follow_up time per subject=  1145.954 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.949 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  888.3083 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.964 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  1008.836 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.978 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  1102.335 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.984 
+Mean total sample size =  1152.824 
+Mean follow_up time per subject=  1174.859 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.983 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  941.1725 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.991 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  1049.893 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.997 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  1134.208 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  best 
+positive_only =  FALSE 
+countries =  4 
+power =  0.998 
+Mean total sample size =  1441.158 
+Mean follow_up time per subject=  1199.546 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  1825 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.397 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  809.1606 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.45 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  935.9827 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.505 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1032.762 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1095 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.547 
+Mean total sample size =  863.418 
+Mean follow_up time per subject=  1106.64 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2190 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.529 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  867.0786 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.605 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  980.3526 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.663 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  1066.82 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1460 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.687 
+Mean total sample size =  1150.819 
+Mean follow_up time per subject=  1132.945 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2555 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.666 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  916.126 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  2920 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.718 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  1017.789 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3285 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.764 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  1095.442 
+
+
+Round  50 
+Round  100 
+Round  150 
+Round  200 
+Round  250 
+Round  300 
+Round  350 
+Round  400 
+Round  450 
+Round  500 
+Round  550 
+Round  600 
+Round  650 
+Round  700 
+Round  750 
+Round  800 
+Round  850 
+Round  900 
+Round  950 
+Round  1000 
+T0 =  1825 
+T1 =  3650 
+test =  log rank 
+assumption =  unif 
+positive_only =  FALSE 
+countries =  4 
+power =  0.794 
+Mean total sample size =  1438.97 
+Mean follow_up time per subject=  1154.751 
+
+

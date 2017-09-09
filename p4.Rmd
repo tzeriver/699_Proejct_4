@@ -1,0 +1,233 @@
+---
+title: "Group Randomized Trial Design For Targeted Agent -- A Simulation Study"
+author: 'Zijiang Yang'
+date: "March 30, 2017"
+output:
+  pdf_document:
+    fig_caption: yes
+  html_document: default
+---
+
+```{r,warning=FALSE,message=FALSE,results='hide'}
+library(powerSurvEpi)
+library(stats)
+library(base)
+library(survival)
+library(PwrGSD)
+library(ggplot2)
+```
+
+###The simulation
+```{r,warning=FALSE,message=FALSE,results='hide'}
+simulation <- function(sims,countries,positive_only,assumption,test,T0,T1){
+  # sims: How many simulations
+  # countries: How many countries
+  # positive_only: Include only positive patients or not
+  # T0: End of accrural (in year)
+  # T1: End of study (in year)
+  # 
+  # test: Type of hypothesis testing 
+  # #"log rank": Perform a log rank test
+  # #"t": Perform a one-tailed t test on the five-year survival rate
+  # assumption: ssumption of efficacy of the drug
+  # #"best": 45% for +, 40% for -
+  # #"unif": unif(0.35-0.45) for +, unif(0.3-0.4) for -
+  T0 <- 365*T0
+  T1 <- 365*T1
+  Total_N <- 0
+  f <- c()
+  significance <- c()
+  p_list <- c()
+  N <- 100
+  
+  for (round in 1:sims){
+    if (round%%50 == 0){
+      cat("Round ", round, "\n")
+    }
+    big_dat <- data.frame()
+    cur_id <- 1
+    cur_time <- 0
+    accrural_end <- 0
+    i <- 1
+    while(accrural_end==0){
+      set.seed(round*1001+i)
+      x <- rbinom(N,1,0.25) #Biomarker status
+      g <- rbinom(N,1,0.5) #Group assignment
+      sp_list <- c()
+      s <- c()
+      c <- c()
+      delta <- c() #Censoring status
+      follow_up <- c() #Actual follow-up days since intake (considering censoring)
+      five_yr_live <- c() #Alive at five year of follow-up or not
+      accrued <- N
+      for (j in 1:N){
+        #Simulate entry time in days
+        gap <- rexp(1,(72*countries)/365) #S_i-S_{i-1}, assuming 3 countries: 72*3 = 216
+        cur_time <- cur_time+gap
+        if (cur_time > T0){ #Stop Accrural
+          accrued <- j-1
+          accrural_end <- 1
+          break
+        }
+        s <- c(s,cur_time)
+        #Simulate survival probability of 5 years
+        sp <- 0
+        if (g[j] == 1){
+          if (assumption=="unif"){
+            #Uniform Scenario
+            if (x[j] == 1) sp <- runif(1,0.35,0.45)
+            else sp <- runif(1,0.3,0.4)
+          }
+          else if (assumption=="best"){
+            #Best case scenario
+            if (x[j] == 1) sp <- 0.45
+            else sp <- 0.4
+          }
+        }else{
+          sp <- 0.3
+        }
+        sp_list <- c(sp_list,sp)
+        #Simulate censoring time since intake (in days)
+        c_day <- rexp(1,0.05/365)
+        c <- c(c,c_day)
+      }
+      if (accrued == 0){
+        break
+      }
+      lambda <- -log(sp_list)/5
+      t <- c() #Survival time since intake (in days)
+      for (j in 1:accrued){
+        st <- rexp(1,lambda[j])*365
+        t <- c(t,st)
+        delta <- c(delta,ifelse(c[j]<=t[j],1,0)) #right censored
+        follow_up <- c(follow_up,min(t[j],c[j]))
+        if (s[j]+follow_up[j]>T1){
+          follow_up[j] <- T1-s[j]
+          delta[j] <- 1 #right censored
+        }
+        five_yr_live <- c(five_yr_live,ifelse(t[j]>=1825,1,0))
+      }
+      id <- seq(cur_id,cur_id+accrued-1)
+      cur_id <- cur_id+accrued
+      if (accrural_end){
+        x <- x[1:accrued]
+        g <- g[1:accrued]
+      }
+      dat <- data.frame(id=id,x=x,g=g,s=s,t=t,c=c,delta=delta,follow_up=follow_up,five_yr_live=five_yr_live)
+      big_dat <- rbind(big_dat,dat)
+      i <- i + 1
+    }
+    if(positive_only){
+      sub <- subset(big_dat,x==1)
+    }else{
+      sub <- big_dat
+    }
+    Total_N <- Total_N + length(sub$id)
+    f <- c(f,sum(sub$follow_up)/length(sub$follow_up))
+    if (test=="log rank"){ 
+      s <- survdiff(Surv(follow_up,delta==0) ~ g,data=sub)
+      p <- 1 - pchisq(s$chisq, 1)
+      p_list <- c(p_list,p)
+      #print(p)
+      significance <- c(significance,ifelse(p<=0.05,1,0))
+    }else if (test == "t"){
+      sub <- subset(sub,c>t) #delete dropouts
+      trt <- subset(sub,g==1)
+      ctr <- subset(sub,g==0)
+      #print(length(ctr$five_yr_live))
+      s <- t.test(ctr$five_yr_live,trt$five_yr_live,alternative = "less", var.equal = TRUE)
+      p_list <- c(p_list,s$p.value)
+      significance <- c(significance,ifelse(s$p.value<=0.05,1,0))
+    }else{
+      print("Please enter correct test type!")
+      quit()
+    }
+  }
+  
+  cat("T0 = ", T0, "\n")
+  cat("T1 = ", T1, "\n")
+  cat("test = ", test, "\n")
+  cat("assumption = ", assumption, "\n")
+  cat("positive_only = ", positive_only, "\n")
+  cat("countries = ", countries, "\n")
+  cat("power = ",mean(significance), "\n")
+  cat("Mean total sample size = ",Total_N/sims, "\n")
+  cat("Mean follow_up time per subject= ",mean(f), "\n\n\n")
+  
+  sim <- data.frame(T0=T0,T1=T1,assumption=assumption,positive_only=positive_only,countries=countries,sample_size=Total_N/sims,power=mean(significance),follow_up=mean(f))
+  return (sim)
+}
+
+# direct output to a file 
+#sink("/Users/river/Documents/699/Project_4/output.txt", append=TRUE, split=FALSE)
+```
+
+```{r,warning=FALSE,message=FALSE,results='hide'}
+sim_results <- data.frame()
+
+for (countries in 3:4){
+  for (positive_only in c(TRUE,FALSE)){
+    for (assumption in c("best","unif")){
+      for (T0 in 3:5){
+        for (T1 in 5:10){
+          test <- "log rank"
+          sims <- 0 #Set to 0 for output purpose only; should be 1000
+          sim <- simulation(sims,countries,positive_only,assumption,test,T0,T1)
+          sim_results<-rbind(sim_results,sim)
+        }
+      }
+    }
+  }
+}
+
+#sink()
+sim_results$T0 <- sim_results$T0/365
+sim_results$T1 <- sim_results$T1/365
+```
+
+###Simulation Results
+```{r,warning=FALSE,message=FALSE}
+#write.table(sim_results, file = "sim_results.csv", sep = ",", col.names = NA, qmethod = "double")
+#For output purpose only, loading saved results from simulation
+sim_results <- read.table("/Users/river/Documents/699/Project_4/sim_results.csv",sep=",",header = TRUE)
+#Listing results that have power >= 0.7
+subset(sim_results,power>=0.7)[,2:9]
+best_3_f <- subset(sim_results,assumption=="best" & countries==3 & positive_only==FALSE)
+unif_4_f <- subset(sim_results,assumption=="unif" & countries==4 & positive_only==FALSE)
+best_4_f <- subset(sim_results,assumption=="best" & countries==4 & positive_only==FALSE)
+best_4_t <- subset(sim_results,assumption=="best" & countries==4 & positive_only==TRUE)
+```
+
+```{r,warning=FALSE,message=FALSE,results='hide'}
+ggplot(best_3_f, aes(as.factor(T1), as.factor(T0))) +
+    geom_tile(aes(fill = power)) + 
+    geom_text(aes(label = paste(power,round(sample_size), sep="\n"))) +
+    scale_fill_gradient(low = "white", high = "red") +
+    ggtitle("Best case scenario, 3 countries, including all") +
+    labs(x="Study Length",y="Accrual Period Length") 
+
+ggplot(best_4_f, aes(as.factor(T1), as.factor(T0))) +
+    geom_tile(aes(fill = power)) + 
+    geom_text(aes(label = paste(power,round(sample_size), sep="\n"))) +
+    scale_fill_gradient(low = "white", high = "red") +
+    ggtitle("Best case scenario, 4 countries, including all") +
+    labs(x="Study Length",y="Accrual Period Length")
+
+ggplot(best_4_t, aes(as.factor(T1), as.factor(T0))) +
+    geom_tile(aes(fill = power)) + 
+    geom_text(aes(label = paste(power,round(sample_size), sep="\n"))) +
+    scale_fill_gradient(low = "white", high = "red") +
+    ggtitle("Best case scenario, 4 countries, positive only") +
+    labs(x="Study Length",y="Accrual Period Length")
+
+ggplot(unif_4_f, aes(as.factor(T1), as.factor(T0))) +
+    geom_tile(aes(fill = power)) + 
+    geom_text(aes(label = paste(power,round(sample_size), sep="\n"))) +
+    scale_fill_gradient(low = "white", high = "red") +
+    ggtitle("Uniform scenario, 4 countries, including all") +
+    labs(x="Study Length",y="Accrual Period Length")
+```
+
+
+
+
